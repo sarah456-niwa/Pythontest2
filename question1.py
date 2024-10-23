@@ -6,8 +6,8 @@
 
 
 
-# Question 1(ii)
 
+# Question 1(ii)
 # Write a Python program to find maximum between three numbers.
 
 

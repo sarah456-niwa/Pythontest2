@@ -1,5 +1,5 @@
-# Question (ii)
-# Write a Python program to ask a student to enter their mark scored in any course unit and return
+# Question (2)
+# Write a Python program to ask a student to enter their mark scored and it returns
 # the grade obtained according to the following:
 # Percentage >= 90%: Grade A
 # Percentage >= 80%: Grade B
