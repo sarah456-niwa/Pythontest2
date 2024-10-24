@@ -9,4 +9,7 @@
 
 # Question 3(ii)
 # Write a Python program to print all the numbers from 1 to 100 that are not divisible by 2
-
+x=1
+while x<100:
+    print(x)
+    x+=1
